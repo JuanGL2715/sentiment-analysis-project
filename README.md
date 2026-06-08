@@ -1,3 +1,3 @@
-## Emotion Detector
+## Análisis de Emociones en Texto mediante Microservicios
 
-This is the final project within the course, "Developing AI Applications with Python and Flask" in the IBM Full Stack Software Developer Certificate. The objective of this project is to develop an AI-based Flask Web Application which will allow a user to provide a text string as input and receive a response from the AI which will tell the user what emotion is being conveyed in that text string.
+Proyecto final desarrollado como parte del Certificado Profesional de Desarrollador Full Stack de IBM. Esta aplicación web, construida con Python y Flask, integra capacidades de Inteligencia Artificial para procesar cadenas de texto introducidas por el usuario y diagnosticar con precisión la emoción predominante transmitida en el mensaje.
